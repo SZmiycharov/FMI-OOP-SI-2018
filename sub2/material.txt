@@ -1,5 +1,5 @@
 - procedural vs object-oriented programming
-- what is and interface?
+- what is an interface?
 - Classes:
 	-	declaration
 	-	definition
