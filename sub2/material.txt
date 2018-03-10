@@ -1,0 +1,10 @@
+- procedural vs object-oriented programming
+- what is and interface?
+- Classes:
+	-	declaration
+	-	definition
+	-	making class objects
+- abstraction and encapsulation (public and private)
+- getters and setters
+- constructors (with and without parameters); how and when they are used?
+- destructor - how and when it is used? how and when to implement it?

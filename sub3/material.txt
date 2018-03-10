@@ -1,0 +1,10 @@
+- const member functions - how and why?
+- divide class into header and implementation
+	-	include guards in header file
+	-	#include "<CLASS_NAME>" in .cpp file
+- polymorphism
+- function overloading (basic functions, not class methods)
+- operator overloading 
+	-	how and why?
+	-	restrictions
+	-	obvious choices for overloading
