@@ -57,9 +57,9 @@ Time Time::operator*(int mult) const
 {
 	Time result;
 
-	long totalminutes = hours * mult * 60 + minutes * mult;
-	result.hours = totalminutes / 60;
-	result.minutes = totalminutes % 60;
+	int totalMinutes = hours * mult * 60 + minutes * mult;
+	result.hours = totalMinutes / 60;
+	result.minutes = totalMinutes % 60;
 
 	return result;
 }
