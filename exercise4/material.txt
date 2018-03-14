@@ -1,0 +1,6 @@
+- friend methods - how and why?
+- overload << and >>
+- static members
+- dynamic memory
+	-	simple examples
+	-	usage with classes (constructor, destructor)
