@@ -4,3 +4,10 @@
 - dynamic memory
 	-	simple examples
 	-	usage with classes (constructor, destructor)
+	
+	
+Try at home: 
+Improve the CustomString class as follows:
+-	add information about the string length; add function getLength()
+-	make default constructor (without parameters)
+-	overload operators: ">", "<", ">>", "==", "[]"
