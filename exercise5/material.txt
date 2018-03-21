@@ -1,0 +1,15 @@
+- "this" keyword
+- copy constructor
+- assignment operator
+- using our classes:
+	-	pointer to object
+	-	array of objects
+	-	class objects as members of another class
+
+Try at home:
+improve the CustomString class by overloading these operators:
+> , < , == , >> , []
+
+
+Get to know the following project - Black Jack game:
+https://www.cs.fsu.edu/~myers/cop3330/examples/bjack/ 
