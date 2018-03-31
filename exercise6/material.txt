@@ -1,0 +1,18 @@
+- look into the OOP design and patterns of a black jack game - https://www.cs.fsu.edu/~myers/cop3330/examples/bjack/ 
+	-	positives
+	-	negatives
+	-	how the project can be improved
+	-	how the project can be changed easily to represent another card game
+-	template functions
+	-	how
+	-	why
+	-	templating vs overloading
+-	temaplte classes
+	-	how
+	-	why
+	-	Template Static Stack example
+	
+	
+Try at home:
+-	create a War game (the simple game, where the higher card wins) - similar to the black jack game project
+-	create a template class Vector - representing the dynamic array data structure
