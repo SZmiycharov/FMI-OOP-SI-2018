@@ -3,16 +3,16 @@
 	-	negatives
 	-	how the project can be improved
 	-	how the project can be changed easily to represent another card game
--	template functions
+- template functions
 	-	how
 	-	why
 	-	templating vs overloading
--	temaplte classes
+- template classes
 	-	how
 	-	why
 	-	Template Static Stack example
 	
 	
 Try at home:
--	create a War game (the simple game, where the higher card wins) - similar to the black jack game project
+-	create a War card game representation (the simple game, where the higher card wins) - similar to the black jack card game project
 -	create a template class Vector - representing the dynamic array data structure
