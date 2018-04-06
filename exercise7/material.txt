@@ -1,0 +1,17 @@
+Inheritance
+- inheritance basics
+	- examples (class Cat and class Tiger, Lion, etc.; class Developer and class FrontendDeveloper, BackendDeveloper, etc.)
+	- inheritance usage
+		- add functionality to existing class
+		- add additional data
+		- change methods behaviour
+		- much more
+- Our Base class (FootballPlayer) //see FootballPlayer.h
+- Our Derived class (ProfessionalFootballPlayer) //see ProfessionalFootballPlayer.h
+	- derived class basics
+	- derived class constructor 
+	- derived class data
+- special consequences, coming from inheritance
+	- access to base class members from derived class object //see BasicInheritanceExample.cpp
+	- pointers and references //see BaseDerivedPointers.cpp
+
