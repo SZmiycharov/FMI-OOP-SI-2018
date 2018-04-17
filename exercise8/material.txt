@@ -1,0 +1,18 @@
+- inline methods
+- public inheritance - an is-a relationship
+- runtime polymorphism
+	- method overriding
+	- virtual methods
+- examples of overriding - GameAccount and GameAccountPlus classes //check GameAccount, GameAccountPlus and Source.cpp
+- why make methods virtual when we expect them to be overriden? (pointers and objects)
+- redefinition cautions
+	- when redefining, keep the prototype of the base method the same
+	- if the base method is overloaded, redefine all the overloaded methods
+- protected access
+	- when to use it
+	- when NOT to use it
+- abstract base class
+	- meaning
+	- usage
+	- pure virtual functions
+	- our first pure virtual class: BaseEllipse //check BaseEllipse.h
