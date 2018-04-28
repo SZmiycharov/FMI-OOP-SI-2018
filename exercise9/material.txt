@@ -1,0 +1,10 @@
+- abstract base class usage //see Abstract base class example
+	- OOP design with abstract base classes
+	- example: classes Ellipse and Circle //see Ellipse.h, Circle.h
+	- array of objects from different types - second way (with pointer to the abstract class) //see Source.cpp
+- inheritance and dynamic memory //see Inheritance and dynamic memory example
+	- base class with dynamic memory allocation (DMA) - simple abstract class //see BaseDMA
+	- derived class without dynamic memory //see NoDMA
+		- check friend function in derived and base class
+	- derived class with dynamic memory //see HasDMA
+		- check constructor, destructor, copy constructor and assignment operator
