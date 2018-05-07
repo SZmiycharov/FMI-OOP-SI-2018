@@ -8,7 +8,7 @@ class NoDMA : public BaseDMA
 public:
 	NoDMA(const char * name = "NONAME", int rating = 0, double salary = 0);
 
-	friend std::ostream & operator<<(std::ostream & os, const NoDMA & rs);
+	friend std::ostream & operator<<(std::ostream & os, const NoDMA & obj);
 	void greet();
 
 private:

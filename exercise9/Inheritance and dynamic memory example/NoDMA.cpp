@@ -5,10 +5,10 @@ NoDMA::NoDMA(const char * name, int rating, double salary) : BaseDMA(name, ratin
 	m_salary = salary;
 }
 
-std::ostream & operator<<(std::ostream & os, const NoDMA & ls)
+std::ostream & operator<<(std::ostream & os, const NoDMA & obj)
 {
-	os << (const BaseDMA &)ls; //cast to base, use base operator <<
-	os << "Salary: " << ls.m_salary << std::endl;
+	os << (const BaseDMA &)obj; //cast to base, use base operator <<
+	os << "Salary: " << obj.m_salary << std::endl;
 	return os;
 }
 
