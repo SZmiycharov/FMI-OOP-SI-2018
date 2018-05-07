@@ -20,8 +20,8 @@ int main()
 
 	cout << "\n";
 
-	NoDMA test = ndm;
-	cout << test << endl;
+	NoDMA cp_ndm = ndm;
+	cout << cp_ndm << endl;
 
 	return 0;
 }
