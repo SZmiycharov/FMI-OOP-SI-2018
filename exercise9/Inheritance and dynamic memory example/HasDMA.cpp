@@ -33,7 +33,7 @@ HasDMA & HasDMA::operator=(const HasDMA & obj)
 std::ostream & operator<<(std::ostream & os, const HasDMA & obj)
 {
 	os << (const BaseDMA &)obj;  //cast to base, use base operator <<
-	os << "Style: " << obj.m_team << std::endl;
+	os << "Team: " << obj.m_team << std::endl;
 	return os;
 }
 
