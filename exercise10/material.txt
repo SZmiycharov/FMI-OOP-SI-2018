@@ -1,0 +1,10 @@
+- passing object reference VS passing object by value
+- return object VS return reference
+- using const best practices
+- has-a relationship
+	- class with object members
+	- private inheritance
+	- protected inheritance
+- redefining access (include protected members of base class in derived class interface)
+	- call to Base method // Base::print();
+	- using-declaration // see UsingDeclarationExample.cpp
