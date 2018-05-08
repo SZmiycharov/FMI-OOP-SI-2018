@@ -5,6 +5,6 @@
 	- class with object members
 	- private inheritance
 	- protected inheritance
-- redefining access (include protected members of base class in derived class interface)
+- redefining access (include protected methods of base class in derived class interface)
 	- call to Base method // Base::print();
 	- using-declaration // see UsingDeclarationExample.cpp
