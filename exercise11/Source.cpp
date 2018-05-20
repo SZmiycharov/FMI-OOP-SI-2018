@@ -8,7 +8,7 @@ int main()
 {
 	BackendDeveloper bDev("Backend Developerov", 3500, 4);
 	FrontendDeveloper fDev("Frontend Developerov", 2500, 3);
-	FullStackDeveloper fsDev("Fullstack Developerov", 4500, 5, 5); //гю оняке е рнбю
+	FullStackDeveloper fsDev("Fullstack Developerov", 4500, 5, 5);
 
 	Developer *developers[3] = { &bDev, &fDev, &fsDev };
 
