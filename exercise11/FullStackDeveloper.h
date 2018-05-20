@@ -7,7 +7,8 @@ class FullStackDeveloper :
 {
 public:
 	FullStackDeveloper(char* name = "", int salary = 0, int yearsPythonExperience = 0, int yearsJsExperience = 0) :
-		Developer(name), BackendDeveloper(name, salary, yearsPythonExperience), FrontendDeveloper(name, salary, yearsJsExperience) {};
+		Developer(name), BackendDeveloper(name, salary, yearsPythonExperience), 
+		FrontendDeveloper(name, salary, yearsJsExperience) {};
 	~FullStackDeveloper() {};
 
 	virtual void PrintTodos() const;
