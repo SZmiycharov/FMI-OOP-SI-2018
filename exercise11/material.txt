@@ -1,0 +1,10 @@
+- multiple inheritane basics
+- example: 
+	- abstract base class Developer
+	- derived classes FrontendDeveloper and BackendDeveloper
+	- class FullstackDeveloper, inheriting both FrontendDeveloper and BackendDeveloper
+- problems with FullstackDeveloper:
+	- how many developers (one coming from FrontendDeveloper, one coming from BackendDeveloper)? #1
+	- which method to use? #2
+- virtual base class - fixing our problem #1
+- fixing our problem #2 - protected method Data (see class hierarchy)
