@@ -1,4 +1,4 @@
 - friend class example: TV, Remote - Remote represents remote control, able to change TV internals (channel, volume, etc)
-- nested classes //check https://github.com/SZmiycharov/prefix-to-postfix-sda1/blob/master/sdadom1/DynamicStack.h
+- nested classes //see https://github.com/SZmiycharov/prefix-to-postfix-sda1/blob/master/sdadom1/DynamicStack.h
 	- access from current class
-	- access the outside
+	- access from the outside
